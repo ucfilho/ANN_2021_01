@@ -1,4 +1,4 @@
-immport numpy as np
+import numpy as np
 
 def Vol(x):
   Volume =[]
